@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Just a Spoon</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #eee;
+      font-family: "Courier New", monospace;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 0 20px;
+    }
+    h1 {
+      text-align: center;
+      font-size: 3em;
+      margin-bottom: 30px;
+    }
+    p {
+      margin: 15px 0;
+    }
+    .highlight {
+      color: #ff5252;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>Just a Spoon</h1>
+
+  <p>You know what makes <span class="highlight">Just a Spoon</span> good?<br>
+  It knows what it is.<br>
+  It doesn’t pretend to be the future of cutlery.<br>
+  It doesn’t promise ergonomic grip.<br>
+  It doesn’t need a dishwasher-safe guarantee.<br>
+  It needs a drawer, a mouth, and someone unhinged enough to say,<br>
+  “Yeah, I’ll eat soup with this for the rest of my life.”</p>
+
+  <p>Your last utensil had more features than a Swiss Army knife.<br>
+  Ours has three words: <span class="highlight">Scoop. Slurp. Regret.</span></p>
+
+  <p>No forks.<br>
+  No chopsticks.<br>
+  No sporks trying to be everything at once.</p>
+
+  <p>Just vibes, stainless steel, and the looming realization that opposable thumbs were evolution’s peak.</p>
+
+  <p>This is <span class="highlight">Just a Spoon.</span><br>
+  It’s not a product. It’s a performance art piece about late-stage utensil culture.<br>
+  You don’t <em>use</em> this.<br>
+  You participate in it. Like a flash mob. Or a food fight.</p>
+
+  <p><strong>You want specs? Here they are:</strong><br>
+  - Length: who cares<br>
+  - Material: maybe metal, maybe plastic<br>
+  - Dishwasher safe: fleeting<br>
+  - Manufacturer? Maybe<br>
+  - Purpose: none</p>
+
+  <p>This spoon works everywhere. Your cereal. Your soup. Your ice cream at 2 a.m.<br>
+  It’s so stupid, even your uncle who eats with his hands could use it.</p>
+
+  <p><span class="highlight">Just a Spoon</span> doesn’t solve problems.<br>
+  It <strong>is</strong> the problem.</p>
+
+  <p>You’re not early.<br>
+  You’re not late.<br>
+  You’re just hungry.<br>
+  And sometimes, that’s enough.</p>
+
+  <p>So stop pretending. Stop researching. Stop asking questions like you’re gonna find the perfect cutlery set on Wirecutter.</p>
+
+  <p>You want serious? Go read a cookbook.<br>
+  You want to be a part of something so hilariously dumb it might work?</p>
+
+  <p>Welcome to <span class="highlight">Just a Spoon.</span><br>
+  The last utensil you’ll ever need — because after this, you’re probably eating with your hands.</p>
+
+  <footer>
+    © 2025 Just a Spoon — All rights spooned.
+  </footer>
+</body>
+</html>
